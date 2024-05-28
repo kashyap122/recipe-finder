@@ -1,0 +1,30 @@
+.image-container {
+    position: relative;
+}
+
+.backToRecipe{
+    position: relative;
+    top: 20px;
+}
+.image-container img {
+    width: 1422px;
+    height: 590px;
+}
+
+.searchHeading {
+    position: absolute;
+    top: 33%;
+    left: 38%;
+    font-size: 50px;
+    color: white;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+.searchRecipes {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 25px;
+    width: 200px;
+}

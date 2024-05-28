@@ -1,0 +1,26 @@
+.mainNavbar{
+    background-color: rgb(226, 214, 198);
+    /* height: 70px;     */
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.heading{
+    margin-top: 15px;
+    font-size: 20px;
+    font-weight: bold;
+}
+.searchbar{
+    border-radius: 10px;
+    margin-top: 10px;
+    width: 350px;
+    height: 40px;
+    margin-left: 100px;
+}
+.searchbutton{
+    margin-top: 10px;
+    height: 40px;
+    width: 100px;
+    margin-left: 10px;
+}
